@@ -1,0 +1,14 @@
+﻿  Lab 3.cpp
+C:\project C++\АиСД\Lab 3\Lab 3\Lab 3.cpp(54,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\project C++\АиСД\Lab 3\Lab 3\tree.h(62,43): warning C4018: >: несоответствие типов со знаком и без знака
+C:\project C++\АиСД\Lab 3\Lab 3\tree.h(61): message : во время компиляции функции-члена класс шаблон "Tree<int>::iterator_width &Tree<int>::iterator_width::operator ++(void)"
+C:\project C++\АиСД\Lab 3\Lab 3\Lab 3.cpp(109): message : выполняется компиляция ссылки на экземпляр шаблон функции "Tree<int>::iterator_width &Tree<int>::iterator_width::operator ++(void)"
+C:\project C++\АиСД\Lab 3\Lab 3\Lab 3.cpp(108): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Tree<int>::iterator_width"
+C:\project C++\АиСД\Lab 3\Lab 3\tree.h(64,53): warning C4018: >: несоответствие типов со знаком и без знака
+C:\project C++\АиСД\Lab 3\Lab 3\tree.h(102,42): warning C4018: >: несоответствие типов со знаком и без знака
+C:\project C++\АиСД\Lab 3\Lab 3\tree.h(101): message : во время компиляции функции-члена класс шаблон "Tree<int>::iterator_deep &Tree<int>::iterator_deep::operator ++(void)"
+C:\project C++\АиСД\Lab 3\Lab 3\Lab 3.cpp(100): message : выполняется компиляция ссылки на экземпляр шаблон функции "Tree<int>::iterator_deep &Tree<int>::iterator_deep::operator ++(void)"
+C:\project C++\АиСД\Lab 3\Lab 3\Lab 3.cpp(99): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Tree<int>::iterator_deep"
+C:\project C++\АиСД\Lab 3\Lab 3\tree.h(34): warning C4172: возвращение адреса локальной или временной переменной : di
+C:\project C++\АиСД\Lab 3\Lab 3\tree.h(42): warning C4172: возвращение адреса локальной или временной переменной : wi
+  Lab 3.vcxproj -> C:\project C++\АиСД\Lab 3\Debug\Lab 3.exe
