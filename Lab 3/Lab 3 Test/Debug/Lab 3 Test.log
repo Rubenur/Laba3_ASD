@@ -1,0 +1,7 @@
+﻿  Lab 3 Test.cpp
+C:\project C++\АиСД\Lab 3\Lab 3\Lab 3.cpp(54,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\project C++\АиСД\Lab 3\Lab 3 Test\Lab 3 Test.cpp(7,62): error C2653: Microsoft: не является именем класса или пространства имен
+C:\project C++\АиСД\Lab 3\Lab 3 Test\Lab 3 Test.cpp(7,62): error C2871: CppUnitTestFramework: пространство имен с таким именем не существует
+C:\project C++\АиСД\Lab 3\Lab 3 Test\Lab 3 Test.cpp(11,21): error C2882: Lab3Test: недопустимое использование идентификатора пространства имен в выражении
+C:\project C++\АиСД\Lab 3\Lab 3 Test\Lab 3 Test.cpp(11,21): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\project C++\АиСД\Lab 3\Lab 3 Test\Lab 3 Test.cpp(12,2): error C2448: Lab3Test::TEST_CLASS: вероятно, инициализатор, использующий стиль функции, является определением функции
